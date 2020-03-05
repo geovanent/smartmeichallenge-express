@@ -27,4 +27,4 @@ Rode o teste com:
 npm run test
 ```
 
-![Alt text](/docs/test-sample?raw=true "Example test")
+![Alt text](/docs/test-sample.png?raw=true "Example test")
